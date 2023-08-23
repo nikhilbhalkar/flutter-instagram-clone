@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "668851014017",
+    "project_id": "flutter-new-auth",
+    "storage_bucket": "flutter-new-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668851014017:android:f9c4139167dbbeb6210080",
+        "android_client_info": {
+          "package_name": "com.example.untitled4logintuyotrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668851014017-idahvmn0jbo9ebkqgrjsbhg3ggtq4sue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzuMPTcDQidyO2p-3FMJ6G6mkZBFvIKnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668851014017-idahvmn0jbo9ebkqgrjsbhg3ggtq4sue.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668851014017-3al0nkupvlu1va80i6dkqcfu789rkrh7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled4logintuyotrial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
